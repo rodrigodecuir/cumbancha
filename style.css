@@ -1,3 +1,7 @@
+body {
+  top: 0; left: 0; width: 99%; height: 99%; position: absolute; display: table 
+}
+
 .menu {
   font-family: Arial, sans-serif;
   width: 300px;
