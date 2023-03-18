@@ -1,8 +1,10 @@
-const toggles = document.querySelectorAll('.toggle');
+<script>
+  const toggles = document.querySelectorAll('.toggle');
 
-toggles.forEach(toggle => {
-      toggle.addEventListener('click', () => {
-              toggle.classList.toggle('active');
-            });
-});
+  toggles.forEach(toggle => {
+    toggle.addEventListener('click', () => {
+      toggle.classList.toggle('active');
+    });
+  });
+</script>
 
