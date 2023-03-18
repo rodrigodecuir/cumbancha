@@ -20,10 +20,6 @@
   margin: 0;
 }
 
-.toggle.active {
-  background-color: #f2f2f2;
-}
-
 .toggle.active + .description {
   display: block;
 }
