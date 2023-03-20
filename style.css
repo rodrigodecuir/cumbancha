@@ -22,7 +22,7 @@ body {
   padding: 10px;
 }
 
-.toggles { /* adjust the height value as needed */
+.toggles {
   cursor: pointer;
   list-style: none;
   border-bottom: 1px solid #ccc;
