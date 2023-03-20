@@ -6,19 +6,16 @@ body {
   justify-content: center;
   align-items: center;
   font-family: Arial, sans-serif;
-  margin: auto;
 }
 
 .toggle {
   cursor: pointer;
   list-style: none;
   border-bottom: 1px solid #ccc;
-  padding: 10px;
 }
 
 .description {
   display: none;
-  padding: 10px;
 }
 
 .description p {
@@ -35,15 +32,7 @@ a {color: #75c0e0}
   text-align: center;
 }
 
-h2 {
-    text-align: center;
-}
-
-h6 {
-    text-align: center;
-}
-
-.price {
-    float: right;
-    font-weight: bold;
+.price { 
+  float: right;
+  font-weight: bold;
 }
