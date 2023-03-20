@@ -18,6 +18,12 @@ body {
   padding: 10px;
 }
 
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .description {
   display: none;
   padding: 10px;
