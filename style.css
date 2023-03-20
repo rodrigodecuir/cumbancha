@@ -12,10 +12,12 @@ body {
   cursor: pointer;
   list-style: none;
   border-bottom: 1px solid #ccc;
+  padding-right: 30%;
 }
 
 .description {
   display: none;
+  padding-right: 30%;
 }
 
 .description p {
@@ -29,6 +31,14 @@ body {
 a {color: #75c0e0}
 
 .header {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
   text-align: center;
 }
 
