@@ -44,11 +44,6 @@ a {color: #75c0e0}
   text-align: center;
 }
 
-h2 {
-  font-family: Arial, sans-serif;
-  text-align: center;
-}
-
 h1 {
   font-family: Arial, sans-serif;
   text-align: center;
@@ -58,12 +53,6 @@ h4 {
   font-family: Arial, sans-serif;
   text-align: center;
 }
-
-h5 {
-  font-family: Arial, sans-serif;
-  text-align: center;
-}
-
 
 .price {
   float: right;
