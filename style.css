@@ -22,6 +22,15 @@ body {
   padding: 10px;
 }
 
+.toggles { /* adjust the height value as needed */
+  cursor: pointer;
+  list-style: none;
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: -15px;
+}
+
+
 .description img{width:100%;border-radius: 5px}
 
 .description {
