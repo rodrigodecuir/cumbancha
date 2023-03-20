@@ -35,10 +35,12 @@ a {color: #75c0e0}
 }
 
 .container {
+  align-content: center;
   text-align: center;
 }
 
 .menu-container {
+  align-content: center;
   text-align: center;
 }
 
