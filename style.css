@@ -9,9 +9,6 @@ body {
 }
 
 .toggle {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   cursor: pointer;
   list-style: none;
   border-bottom: 1px solid #ccc;
