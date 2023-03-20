@@ -3,7 +3,6 @@ body {
 }
 
 .menu {
-  display: flex;
   justify-content: center;
   font-family: Arial, sans-serif;
   width: 300px;
