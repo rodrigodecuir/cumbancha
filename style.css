@@ -12,12 +12,12 @@ body {
   cursor: pointer;
   list-style: none;
   border-bottom: 1px solid #ccc;
-  padding-right: 30%;
+  padding: 1em;
 }
 
 .description {
   display: none;
-  padding-right: 30%;
+  padding: 1em;
 }
 
 .description p {
