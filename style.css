@@ -4,6 +4,7 @@ body {
 
 .menu {
   justify-content: center;
+  align-items: center;
   font-family: Arial, sans-serif;
   width: 300px;
   margin: auto;
