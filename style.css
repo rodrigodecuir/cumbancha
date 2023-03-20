@@ -10,7 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: Arial, sans-serif;
-  font-size: 20px;
+  font-size: 22px;
   width: 400px;
   margin: 0 auto;
 }
@@ -49,10 +49,21 @@ h2 {
   text-align: center;
 }
 
+h1 {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h4 {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
 h5 {
   font-family: Arial, sans-serif;
   text-align: center;
 }
+
 
 .price {
   float: right;
